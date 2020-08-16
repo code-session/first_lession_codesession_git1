@@ -1,4 +1,4 @@
-
+print(" git repo")
 a = int(input("please enter number a : "))
 print(type(a))
 b = int(input("please enter number b : "))
