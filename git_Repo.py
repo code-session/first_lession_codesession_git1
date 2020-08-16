@@ -1,4 +1,8 @@
-a = input("please enter number a : ")
-b = input("please enter number b : ")
-c = a+b
+
+a = int(input("please enter number a : "))
+print(type(a))
+b = int(input("please enter number b : "))
+c =int(a+b)
 print("sum of A and b is : ",c)
+
+print("developed By Codesession")
